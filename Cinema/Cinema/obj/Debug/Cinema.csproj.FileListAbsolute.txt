@@ -1,0 +1,14 @@
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tuğberk\source\repos\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
