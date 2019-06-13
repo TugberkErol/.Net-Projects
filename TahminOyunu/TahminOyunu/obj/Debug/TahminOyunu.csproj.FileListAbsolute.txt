@@ -1,0 +1,10 @@
+C:\Users\Tuğberk\source\repos\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.exe.config
+C:\Users\Tuğberk\source\repos\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.exe
+C:\Users\Tuğberk\source\repos\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.pdb
+C:\Users\Tuğberk\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csprojAssemblyReference.cache
+C:\Users\Tuğberk\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.Form1.resources
+C:\Users\Tuğberk\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.Properties.Resources.resources
+C:\Users\Tuğberk\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.GenerateResource.cache
+C:\Users\Tuğberk\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Tuğberk\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.exe
+C:\Users\Tuğberk\source\repos\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.pdb
